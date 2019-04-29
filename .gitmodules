@@ -1,4 +1,4 @@
 [submodule "src/hiredis"]
 	path = src/hiredis
-	url = https://github.com/redis/hiredis.git
+	url = https://github.com/samjrdn/hiredis.git
 	branch = master
